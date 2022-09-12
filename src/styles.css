@@ -19,4 +19,9 @@
   -webkit-transform-origin: 0% 0%;
           transform-origin: 0% 0%;
 }
+
+.line:nth-of-type(2) {
+  -webkit-transform: rotate(60deg);
+          transform: rotate(60deg);
+}
 /*# sourceMappingURL=styles.css.map */
