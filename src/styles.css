@@ -44,4 +44,10 @@
   -webkit-transform: rotate(300deg);
           transform: rotate(300deg);
 }
+
+.cabin {
+  background-color: red;
+  width: 20%;
+  height: 20%;
+}
 /*# sourceMappingURL=styles.css.map */
